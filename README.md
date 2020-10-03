@@ -9,8 +9,13 @@ when flipped. NASA's space photo of the day (https://api.nasa.gov/) is displayed
 
 <img src=assets/images/menu.JPG>  
 <img src=assets/images/level3.JPG>  
-<img src=assets/images/extremegameover.JPG>  
-<img src=assets/images/level1.JPG>  
+<img src=assets/images/extremegameover.JPG>
+
+Starting Game: when start button is clicked, it will disappear and reset button will appear. it will also start Timer
+<img src=assets/images/game_starting_page.png>  
+
+Resetting Game: When Reset button is clicked, start button will appear and reset both cards and timer.
+<img src = assets/images/resetpage.png>
 
 The image below shows the hamburger menu funtionality on mobile screen sizes
 <img src= assets/images/hamburgermenupage.png>
